@@ -1,7 +1,5 @@
 # Honors-protein-vis
 
-Exploratory notebooks for a visualization research project on protein dynamics (TU/e Honors Master).
-
 Molecular dynamics (MD) simulations record how a protein moves over time. This project turns each moment of a simulation into a **contact network** (which residues touch each other) and looks for visual representations that show **how proteins change state over time, and which part of the protein changes**. It builds on the *Reducing Snapshots to Points* approach (van den Elzen et al., IEEE TVCG 2016) and moves towards transition networks of protein states.
 
 ## Notebooks
